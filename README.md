@@ -8,7 +8,7 @@ This project focuses on exploring and analyzing a dataset related to loan applic
 
 ### Objectives:
 - Load and clean real-world loan data.
-- Analyze relationships between features like amount anuity, income, loan type, and employment type.
+- Analyze relationships between features like amount annuity, income, loan type, and employment type.
 - Visualize the difference between defaulters and non-defaulters.
 - Summarize findings in a report to identify key risk indicators.
 
